@@ -1,0 +1,12 @@
+{
+  "name": "axios-youtube",
+  "version": "1",
+  "description": "Aula sobre Axios",
+  "main": "index.js",
+  "type": "module",
+  "author": "Leandro Dias",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
